@@ -1,0 +1,7 @@
+
+ Nome: yuri
+ Idade: 18
+ Cpf: 13123
+ Nome: david
+ Idade: 18
+ Cpf: 13134

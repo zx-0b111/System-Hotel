@@ -1,0 +1,64 @@
+
+
+Nome: yuri
+Cafe: bacon
+
+Nome: yuri
+Cafe: ovos-mexidos
+
+Nome: yuri
+Cafe: panquecas
+
+Nome: yuri
+Cafe: sanduiche-natural
+
+Nome: yuri
+Cafe: bolo-chocolate
+
+Nome: yuri
+Cafe: joseph
+
+Nome: yuri
+Cafe: cafe
+
+Nome: yuri
+Cafe: acholatado
+
+Nome: yuri
+Cafe: pao-de-queijo
+
+Nome: yuri
+Cafe: boykisser
+
+Nome: david
+Almoco: tropeiro
+
+Nome: david
+Almoco: feijoada
+
+Nome: david
+Almoco: yuri
+
+Nome: david
+Almoco: sal-picao
+
+Nome: david
+Almoco: lasanha
+
+Nome: david
+Almoco: macarronada
+
+Nome: david
+Almoco: torta-de-frango
+
+Nome: david
+Almoco: churrasco
+
+Nome: david
+Almoco: strogonoff
+
+Nome: david
+Almoco: femboy
+
+Nome: david
+Almoco: vinagrete
